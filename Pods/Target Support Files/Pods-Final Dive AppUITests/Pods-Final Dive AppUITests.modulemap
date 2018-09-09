@@ -1,0 +1,6 @@
+framework module Pods_Final_Dive_AppUITests {
+  umbrella header "Pods-Final Dive AppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
